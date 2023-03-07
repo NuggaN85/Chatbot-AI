@@ -18,7 +18,7 @@ Ici vous retrouverez 4 différents chatbot avec api, manuel et discord.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-- Signalez-nous les bugs que vous remarquez sur via [Github](https://github.com/NuggaN85/Chatbot-AI/issues/1).
+- Signalez-nous les bugs que vous remarquez sur via [Github](https://github.com/NuggaN85/Chatbot-AI/issues/3).
 - Nous-suggérez des modifications sur via [Github](https://github.com/NuggaN85/Chatbot-AI/issues/2).
 - Suivez [@NuggaN85](https://twitter.com/NuggaN85) sur Twitter
 - Discord : https://discord.gg/4gZsXRKdmJ
