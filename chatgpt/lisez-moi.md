@@ -8,7 +8,7 @@ Notez que vous devrez d'abord vous inscrire à l'API ChatGPT et générer votre 
 
 ----------------
 
-__Voici comment vous pouvez obtenir votre clé API pour ChatGPT :__
+___Voici comment vous pouvez obtenir votre clé API pour ChatGPT :___
 
 >1. Visitez le site Web de ChatGPT à l'adresse suivante : https://www.chatgpt.com/
 >2. Cliquez sur le bouton `Sign up` dans le coin supérieur droit de la page pour créer un compte
