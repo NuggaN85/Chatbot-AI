@@ -6,7 +6,7 @@ La réponse est ensuite affichée à l'utilisateur.
 
 Notez que vous devrez d'abord vous inscrire à l'API ChatGPT et générer votre propre clé API avant de pouvoir utiliser cette API.
 
-======================================================================================================================================
+----------------
 
 Voici comment vous pouvez obtenir votre clé API pour ChatGPT :
 
