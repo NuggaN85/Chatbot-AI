@@ -8,7 +8,7 @@
  * MIT Licensed
 ```
 
-Ici vous retrouverez 5 différents chatbot Simple, api Chatgpt, api Dialogflow, Discord et CMS Wordpress.
+___Ici vous retrouverez 5 différents chatbot Simple, api Chatgpt, api Dialogflow, Discord et CMS Wordpress.___
 
 ## <strong>❤️</strong> (Contribuer) <strong>❤️</strong>
 
