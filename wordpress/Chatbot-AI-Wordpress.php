@@ -23,3 +23,4 @@ function chat_with_gpt_init_script() {
     <?php
 }
 add_action( 'wp_footer', 'chat_with_gpt_init_script' );
+
