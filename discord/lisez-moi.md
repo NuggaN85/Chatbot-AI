@@ -9,3 +9,16 @@ Vous devrez également générer votre propre token Discord et l'utiliser dans l
 
 ----------------
 
+___Voici comment vous pouvez obtenir ces informations Pour créer un bot Discord :___
+
+>1. Connectez-vous à votre compte Discord ou créez-en un si vous n'en avez pas déjà un.
+>2. Accédez au portail des développeurs Discord à l'adresse suivante : https://discord.com/developers/applications/
+>3. Cliquez sur `New Application` pour créer une nouvelle application.
+>4. Donnez un nom à votre application, puis cliquez sur `Create`.
+>5. Dans le menu de gauche, cliquez sur `Bot`.
+>6. Cliquez sur `Add Bot`.
+>7. Donnez un nom et une image à votre bot.
+>8. Notez le token de votre bot (il sera utilisé pour connecter votre bot à Discord).
+>9. Si vous le souhaitez, vous pouvez ajouter des fonctionnalités supplémentaires à votre bot en utilisant l'API Discord.
+>10. Ajoutez votre bot à un serveur Discord en utilisant le lien suivant : https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot. Remplacez `YOUR_CLIENT_ID` par l'ID de votre application Discord (que vous pouvez trouver dans les paramètres généraux de votre application).
+>11. Une fois que vous avez créé votre bot et obtenu son token, vous pouvez utiliser un framework comme Discord.js pour créer des fonctionnalités pour votre bot, comme répondre à des messages ou effectuer des actions en réponse à des événements dans les salons Discord.
