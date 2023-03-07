@@ -6,3 +6,6 @@ La réponse est ensuite envoyée dans le salon Discord.
 
 Notez que vous devrez d'abord vous inscrire à l'API ChatGPT et générer votre propre clé API avant de pouvoir utiliser cette API. 
 Vous devrez également générer votre propre token Discord et l'utiliser dans la fonction `client.login('VOTRE_TOKEN_DISCORD')`.
+
+----------------
+
