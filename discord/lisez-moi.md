@@ -9,7 +9,7 @@ Vous devrez également générer votre propre token Discord et l'utiliser dans l
 
 ----------------
 
-___Voici comment vous pouvez obtenir ces informations Pour créer un bot Discord :___
+___Voici comment vous pouvez obtenir ces informations pour créer un bot Discord :___
 
 >1. Connectez-vous à votre compte Discord ou créez-en un si vous n'en avez pas déjà un.
 >2. Accédez au portail des développeurs Discord à l'adresse suivante : https://discord.com/developers/applications/
