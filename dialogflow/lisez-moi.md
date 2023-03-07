@@ -4,7 +4,7 @@ Vous devrez remplacer `VOTRE_CLE_API_DIALOGFLOW` et `VOTRE_ID_PROJET_DIALOGFLOW`
 Le code vérifie si un message a été envoyé via un formulaire et utilise la fonction `getBotResponse()` pour générer la réponse du chatbot. La réponse est ensuite affichée à l'utilisateur. 
 Notez que vous devrez d'abord créer un agent Dialogflow et configurer des intents et des réponses de fulfillment pour votre chatbot avant de pouvoir utiliser cette API.
 
-===============================================================================================================
+----------------
 
 Voici comment vous pouvez obtenir ces informations pour votre projet Dialogflow :
 
