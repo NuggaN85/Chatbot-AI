@@ -2,6 +2,7 @@ ___Pour intégrer l'API ChatGPT à votre site Wordpress, vous pouvez suivre les 
 
 >1. Créez un compte sur le site de l'API ChatGPT et obtenez votre clé API.
 >2. Installez et activez le plugin `Code Snippets` sur votre site Wordpress. 
+>Vous pouvez télécharger l'extension Code Snippets sur le site officiel Wordpress Extensions Directory : https://fr.wordpress.org/plugins/code-snippets/
 Cela vous permettra d'ajouter du code personnalisé à votre site Wordpress sans avoir à modifier les fichiers de code de votre thème.
 >3. Remplacez `YOUR_API_KEY` par votre propre clé API ChatGPT.
 Utilisez le shortcode `[chat_with_gpt]` dans n'importe quelle page ou publication pour afficher le widget de chat.
