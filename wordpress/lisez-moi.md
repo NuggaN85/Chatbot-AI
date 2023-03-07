@@ -9,6 +9,8 @@ Utilisez le shortcode `[chat_with_gpt]` dans n'importe quelle page ou publicatio
 
 ----------------
 
+___Voici comment vous pouvez obtenir votre clé API pour ChatGPT :___
+
 >1. Visitez le site Web de ChatGPT à l'adresse suivante : https://www.chatgpt.com/
 >1. Cliquez sur le bouton Sign up dans le coin supérieur droit de la page pour créer un compte
 >1. Remplissez le formulaire d'inscription en fournissant les informations nécessaires et cliquez sur Sign up
