@@ -8,7 +8,16 @@
  * MIT Licensed
 ```
 
-___Ici vous retrouverez 6 différents chatbot Simple, api Chatgpt, api Dialogflow, Discord et CMS Wordpress et Joomla.___
+Nous vous proposons six chatbots différents pour répondre à vos besoins en matière de communication automatisée. Vous pouvez choisir parmi les options suivantes :
+
+>1. Chatbot Simple
+>2. API Chatgpt
+>3. API Dialogflow
+>4. Discord
+>5. CMS Wordpress
+>6. CMS Joomla
+
+Ces chatbots sont conçus pour offrir des solutions de communication automatisée efficaces et faciles à utiliser. N'hésitez pas à explorer nos différentes options pour trouver celle qui convient le mieux à vos besoins.
 
 ## <strong>❤️</strong> (Contribuer) <strong>❤️</strong>
 
